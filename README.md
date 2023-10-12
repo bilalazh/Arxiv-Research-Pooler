@@ -10,6 +10,12 @@ or
 just `git clone https://github.com/bilalazh/Arxiv-Research-Pooler.git`in your terminal and place the `.ipynb` any where in your Google Drive to access it 
 
 
+#### Objectives and Motivations for this Repo 
+
+There were 7716 papers published  only in first 12 days of October 2023 [Check Here](https://arxiv.org/stats/monthly_submissions)
+
+
+
 
 Issues / Todos: 
 - complete the docs 
