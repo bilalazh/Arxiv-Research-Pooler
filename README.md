@@ -9,5 +9,5 @@ checking if the link works :
 
 Issues : 
 - complete the docs 
-- notebook is not rendered on github 
-- link to notebook is not working as well
+
+
